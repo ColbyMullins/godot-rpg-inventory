@@ -4,6 +4,11 @@ For this assignment, I followed a [tutorial](https://youtu.be/V79YabQZC1s?si=H3s
 
 ![image](https://github.com/user-attachments/assets/a1cfabd2-dc03-4096-ac8a-75d958770a78)
 
+### Controls
+- Movement: WASD
+- Interact with chest: E
+- Open/Close Inventory: TAB
+
 ### Features:
 - Stacking
 - Single place
